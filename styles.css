@@ -56,3 +56,19 @@
       height: 400px;
       width: 100%;
   }
+ 
+  .gallery .carousel {
+      max-height: 60vh;
+      overflow: hidden;
+  }
+  
+
+
+  .feature .carousel {
+      max-height: 75vh;
+      overflow: hidden;
+  }
+
+  .feature img {
+    position: relative;  
+  } 
